@@ -1,6 +1,6 @@
 ## Lab journal for courses in [Bioinformatics Institute](https://bioinf.me/education/program/)
 
-Entries organized as `PROJECT_NAME/DD_MM_YYYY.md`
+Entries organized as `PROJECT_NAME/YYYY_MM_DD.md`
 
 ## Project description
 ### ANTIBIOTIC_RESISTANCE
