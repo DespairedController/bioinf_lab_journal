@@ -16,3 +16,26 @@ The goals are to analyze that sequencing data from a strain of E. coli resistant
 6. Variant calling
 7. Variant effect prediction
 8. Writing lab report
+
+### E_COLI_OUTBREAK
+#### "E. coli outbreak investigation". De novo assembly and annotation of bacterial genomes.
+The goal is to reproduce part of [E. coli O104:H4 Genome Analysis](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki) on TY2482 sequencing data and answer following questions:
+1. What is genomic sequence of E.Coli X?
+2. What strain of E. coli is E. coli X most similar to? (Where did it come from?)
+3. What are the genes that E. coli X contains?
+4. Which of these genes make E. coli X distinct?
+5. How did E. coli X evolve to obtain these genes?
+6. How did E. coli X become pathogenic?
+
+#### Plan
+1. Explore the dataset with FastQC
+2. K-mer profiling and genome size estimation
+3. Assembling E.Coli X genome from paired reads
+4. Analyze effect of read correction
+5. Analyze impact of reads with large insert size
+6. Genome annotation
+7. Finding the closest relative of E.Coli X
+8. Finding what is the genetic cause of HUS
+9. Tracing the source of toxin genes in E.Coli X
+10. Antibiotic resistance detection
+11. Writing lab report
