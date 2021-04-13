@@ -2,6 +2,10 @@
 
 Entries organized as `PROJECT_NAME/YYYY_MM_DD.md`
 
+## Reports
+* [Causes of the E.Coli outbreak in Germany in April 2011.](https://github.com/DespairedController/bioinf_lab_journal/blob/main/E_COLI_OUTBREAK/What%20caused%20an%20E.%20Coli%20outbreak.pdf)
+* [Mutations that probably cause ampicillin resistance in E.Coli.](https://github.com/DespairedController/bioinf_lab_journal/blob/main/ANTIBIOTIC_RESISTANCE/Mutations%20that%20probably%20cause%20ampicillin%20resistance%20in%20E.Coli..pdf)
+
 ## Project description
 ### ANTIBIOTIC_RESISTANCE
 #### “What causes antibiotic resistance?” Alignment to reference, variant calling
